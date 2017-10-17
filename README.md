@@ -43,7 +43,7 @@ A ProgressBar For Gallery ...
     func photoCount() -> Int {
         return 10
     }
-    // 可以和Scroll 绑定 实现 滑动的时候滑块才会现实
+    // 可以和Scroll 绑定 实现 滑动时显示
     func scrollState() -> Bool {
         return true
     }
