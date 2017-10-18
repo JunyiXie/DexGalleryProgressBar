@@ -1,10 +1,5 @@
-//
-//  PhotoGalleryProgressBar.swift
-//  Apollon
-//
+
 //  Created by 谢俊逸 on 19/07/2017.
-//  Copyright © 2017 njsqrt3. All rights reserved.
-//
 
 import UIKit
 
